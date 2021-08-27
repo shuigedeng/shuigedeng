@@ -1,6 +1,8 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=yorickshan&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=shuigedeng&show_icons=true&theme=radical
+&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### Hi there 👋 I'm Yorickshan:
+
+### Hi there 👋 I'm  Shuigedeng:
 
 💻 FrontEnd Engineer<br>
 🎓 Undergraduate from JIT<br>
