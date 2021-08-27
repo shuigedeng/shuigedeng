@@ -1,9 +1,4 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=shuigedeng&show_icons=true&theme=radical&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true" />
 
 ### Hi there 👋 I'm Shuigedeng:
 
@@ -40,4 +35,7 @@
 ![Homeassistant](https://img.shields.io/badge/-Homeassistant-orange)
 
 ### 🤝🏻 &nbsp;Contact with Me
-<a href="mailto:yorickshan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yorickshan@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="981376577@qq.com"><img alt="Email" src="https://img.shields.io/badge/-Email-green"></a>
+<a href="https://taotaocloud.top"><img alt="TaoTaoCloud" src="https://img.shields.io/badge/-TaoTaoCloud-red"></a>
+<a href="https://datav.taotaocloud.top/"><img alt="Datav" src="https://img.shields.io/badge/-Datav-yellow"></a>
+<a href="https://backend.taotaocloud.top/"><img alt="Backend" src="https://img.shields.io/badge/-Backend-blue"></a>
