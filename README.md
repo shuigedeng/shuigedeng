@@ -8,11 +8,11 @@
 📝 Blog: [Shuigedeng's Blog](https://blog.taotaocloud.top/)<br>
 
 ### 🛠 &nbsp;Technology stack
-![JavaScript](https://img.shields.io/badge/JS-JavaScript-blue)
-![TypeScript](https://img.shields.io/badge/TS-TypeScript-red)
+![JavaScript](https://img.shields.io/badge/-JavaScript-green)
+![TypeScript](https://img.shields.io/badge/-TypeScript-red)
 ![React](https://img.shields.io/badge/-React-orange)
 ![Vue3](https://img.shields.io/badge/-Vue3-yellow)
-![Node.js](https://img.shields.io/badge/Node-Nodejs-yellowgreen)
+![Node.js](https://img.shields.io/badge/-Nodejs-blue)
 ![Taro3](https://img.shields.io/badge/-Taro3-yellow)
 <br>
 ![Java](https://img.shields.io/badge/-JAVA-green)
