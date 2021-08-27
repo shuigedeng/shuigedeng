@@ -1,9 +1,4 @@
-<a align="right" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a align="right" href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=shuigedeng&show_icons=true&theme=radical&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true" />
 
 ### Hi there 👋 I'm Shuigedeng:
 
