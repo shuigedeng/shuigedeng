@@ -1,28 +1,40 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=shuigedeng&show_icons=true&theme=radical&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true" />
 
-### Hi there 👋 I'm Yorickshan:
+### Hi there 👋 I'm Shuigedeng:
 
-💻 FrontEnd Engineer<br>
-🎓 Undergraduate from JIT<br>
-🔭 I’m currently working on Shouqianba<br>
-📝 Blog: [Yorickshan's Blog](https://yorickshan.netlify.app/)<br>
+💻 Backend Engineer<br>
+🎓 Junior college from Mechanical Manufacturing and Automation<br>
+🔭 I’m currently working on CHONGQING TOURISM CLOUD INFORMATION TECHNOLOGY CO.LTD<br>
+📝 Blog: [Shuigedeng's Blog](https://blog.taotaocloud.top/)<br>
 
-### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+### 🛠 &nbsp;Technology stack
+![JavaScript](https://img.shields.io/badge/JS-JavaScript-blue)
+![TypeScript](https://img.shields.io/badge/TS-TypeScript-red)
+![React](https://img.shields.io/badge/-React-orange)
+![Vue3](https://img.shields.io/badge/-Vue3-yellow)
+![Node.js](https://img.shields.io/badge/Node-Nodejs-yellowgreen)
+![Miniprogram](https://img.shields.io/badge/-Miniprogram-brightgreen)
+![Taro3](https://img.shields.io/badge/-Taro3-yellow)
 <br>
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react.js)
+![Java](https://img.shields.io/badge/-JAVA-green)
+![Spring](https://img.shields.io/badge/-Spring-blue)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-lightgrey)
+![SpringCloud](https://img.shields.io/badge/-SpringCloud-red)
+![SpringCloudAlibaba](https://img.shields.io/badge/-SpringCloudAlibaba-orange)
+![Dubbo](https://img.shields.io/badge/-Dubbo-yellow)
 <br>
-![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
-![Koa.js](https://img.shields.io/badge/-Koa2-333333?style=flat&logo=koa.js)
+![Hadoop](https://img.shields.io/badge/-Hadoop-brightgreen)
+![Hive](https://img.shields.io/badge/-Hive-yellow)
+![Redis](https://img.shields.io/badge/-Redis-red)
+![Spark](https://img.shields.io/badge/-Spark-blue)
+![Flink](https://img.shields.io/badge/-Flink-yellow)
+![Hudi](https://img.shields.io/badge/-Hudi-lightgrey)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-yellowgreen)
 <br>
-![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
-![Miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-<br>
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=golang)
+![Python](https://img.shields.io/badge/-Python-green)
+![Django](https://img.shields.io/badge/-Django-blue)
+![Scrpy](https://img.shields.io/badge/-Scrpy-brightgreen)
+![Homeassistant](https://img.shields.io/badge/-Homeassistant-orange)
 
 ### 🤝🏻 &nbsp;Contact with Me
 <a href="mailto:yorickshan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yorickshan@gmail.com-blue?style=flat-square&logo=gmail"></a>
