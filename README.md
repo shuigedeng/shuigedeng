@@ -1,5 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=shuigedeng&show_icons=true&theme=radical&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true" />
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuigedeng&layout=compact" />
+
 ### Hi there 👋 I'm Shuigedeng:
 
 💻 Backend Engineer<br>
@@ -13,7 +15,6 @@
 ![React](https://img.shields.io/badge/-React-orange)
 ![Vue3](https://img.shields.io/badge/-Vue3-yellow)
 ![Node.js](https://img.shields.io/badge/Node-Nodejs-yellowgreen)
-![Miniprogram](https://img.shields.io/badge/-Miniprogram-brightgreen)
 ![Taro3](https://img.shields.io/badge/-Taro3-yellow)
 <br>
 ![Java](https://img.shields.io/badge/-JAVA-green)
@@ -21,7 +22,6 @@
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-lightgrey)
 ![SpringCloud](https://img.shields.io/badge/-SpringCloud-red)
 ![SpringCloudAlibaba](https://img.shields.io/badge/-SpringCloudAlibaba-orange)
-![Dubbo](https://img.shields.io/badge/-Dubbo-yellow)
 <br>
 ![Hadoop](https://img.shields.io/badge/-Hadoop-brightgreen)
 ![Hive](https://img.shields.io/badge/-Hive-yellow)
