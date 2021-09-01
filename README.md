@@ -1,7 +1,6 @@
 <a>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=shuigedeng&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&show_icons=true&theme=radical&hide_border=true" />
   <a/>
-<br>
   <br>
 <a>
 <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuigedeng&layout=compact&hide_border=true" />
