@@ -3,7 +3,7 @@
   <a/>
 <br>
 <a>
-<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuigedeng&layout=compact&hide_border=true" />
+<img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuigedeng&layout=compact&hide_border=true" />
   <a/>
 ### Hi there 👋 I'm Shuigedeng:
 
