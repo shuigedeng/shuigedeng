@@ -9,9 +9,9 @@
 ## Hi there 👋 I'm Shuigedeng:
 
 💻 **Backend Engineer**<br>
-🎓 Junior college from Mechanical Manufacturing and Automation<br>
-🔭 I’m currently working on CHONGQING TOURISM CLOUD INFORMATION TECHNOLOGY CO.LTD<br>
-📝 Blog: [Shuigedeng's Blog](https://blog.taotaocloud.top/)<br>
+🎓 **Junior college from Mechanical Manufacturing and Automation**<br>
+🔭 **I’m currently working on CHONGQING TOURISM CLOUD INFORMATION TECHNOLOGY CO.LTD**<br>
+📝 **Blog: [Shuigedeng's Blog](https://blog.taotaocloud.top/)**<br>
 
 ### 🛠 &nbsp;Technology stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-green)
