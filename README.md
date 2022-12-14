@@ -53,7 +53,21 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/shuigedeng/taotao-cloud-project"><b>taotao-cloud-project(微服务脚手架、大数据模块、Python模块)</b></a></td>
+      <td><a href="https://github.com/shuigedeng/taotao-cloud-project"><b>taotao-cloud-project(商城模块、大数据模块、Python模块)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/badge/stars-53-blue"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	   <tr>
+      <td><a href="https://github.com/shuigedeng/taotao-cloud-ui"><b>taotao-cloud-ui(商城前端)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/badge/stars-53-blue"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	    <tr>
+      <td><a href="https://github.com/shuigedeng/taotao-cloud-starter"><b>taotao-cloud-starter(微服务脚手架)</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/badge/stars-53-blue"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
