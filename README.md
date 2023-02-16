@@ -14,13 +14,6 @@
 📝 **Blog: [Shuigedeng's Blog](https://blog.taotaocloud.top/)**<br>
 
 ### 🛠 &nbsp;Technology stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-green)
-![TypeScript](https://img.shields.io/badge/-TypeScript-red)
-![React](https://img.shields.io/badge/-React-orange)
-![Vue3](https://img.shields.io/badge/-Vue3-yellow)
-![Node.js](https://img.shields.io/badge/-Nodejs-blue)
-![Taro3](https://img.shields.io/badge/-Taro3-yellow)
-<br>
 ![Java](https://img.shields.io/badge/-JAVA-green)
 ![Spring](https://img.shields.io/badge/-Spring-blue)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-lightgrey)
