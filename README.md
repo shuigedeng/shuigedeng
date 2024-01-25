@@ -10,7 +10,7 @@
 
 💻 **Backend Engineer**<br>
 🎓 **Junior college from Mechanical Manufacturing and Automation**<br>
-🔭 **I’m currently working on CHONGQING TOURISM CLOUD INFORMATION TECHNOLOGY CO.LTD**<br>
+🔭 **I’m currently working on CHONGQING**<br>
 📝 **Blog: [Shuigedeng's Blog](https://blog.taotaocloud.top/)**<br>
 
 ### 🛠 &nbsp;Technology stack
