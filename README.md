@@ -3,12 +3,12 @@
 <a/>
   
 <a>
-	<img  align="right" width="454" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuigedeng&layout=compact&hide_border=true" />
+	<img  align="right" width="464" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuigedeng&layout=compact&hide_border=true" />
 <a/>
 
   
 ## Hi there 👋 I'm Shuigedeng
-<br>
+
 
 💻 **Backend Engineer**<br>
 🎓 **Junior college from Mechanical Manufacturing and Automation**<br>
