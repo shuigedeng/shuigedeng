@@ -3,7 +3,7 @@
 <a/>
   
 <a>
-	<img  align="right" width="464" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuigedeng&layout=compact&hide_border=true" />
+	<img  align="right" width="484" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuigedeng&layout=compact&hide_border=true" />
 <a/>
 
   
