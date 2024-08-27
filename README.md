@@ -1,21 +1,19 @@
 <a>
-	<img align="right" src="https://github-readme-stats.vercel.app/api?username=shuigedeng&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&show_icons=true&theme=radical&hide_border=true" />
-<a/>
-  
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=shuigedeng&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&show_icons=true&theme=radical&hide_border=true" />
+  <a/>
+  <br>
 <a>
-	<img  align="right" width="484" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuigedeng&layout=compact&hide_border=true" />
-<a/>
+<img  align="right" width="464" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuigedeng&layout=compact&hide_border=true" />
+  <a/>
 
-  
-## Hi there 👋 I'm Shuigedeng
-
+## Hi there 👋 I'm Shuigedeng:
 
 💻 **Backend Engineer**<br>
 🎓 **Junior college from Mechanical Manufacturing and Automation**<br>
 🔭 **I’m currently working on CHONGQING**<br>
 📝 **Blog: [Shuigedeng's Blog](https://blog.taotaocloud.top/)**<br>
 
-### 🛠 &nbsp;Technology stack
+## 🛠 &nbsp;Technology stack
 ![Java](https://img.shields.io/badge/-JAVA-green)
 ![Spring](https://img.shields.io/badge/-Spring-blue)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-lightgrey)
@@ -84,7 +82,7 @@
     </tr>
   </tbody>
 </table>
-  
+
 ## 🤝🏻 &nbsp;Contact with Me
 <a href="981376577@qq.com"><img alt="Email" src="https://img.shields.io/badge/-Email-green"></a>
 <a href="https://taotaocloud.top"><img alt="TaoTaoCloud" src="https://img.shields.io/badge/-TaoTaoCloud-red"></a>
