@@ -1,10 +1,3 @@
-<a>
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=shuigedeng&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&show_icons=true&theme=radical&hide_border=true" />
-  <a/>
-  <br>
-<a>
-<img  align="right" width="454" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuigedeng&layout=compact&hide_border=true" />
-  <a/>
 
 ## Hi there 👋 I'm Shuigedeng:
 
@@ -83,6 +76,15 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
+</table>
+
+## xx
+
+<table>
+  <tr>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=shuigedeng&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&show_icons=true&theme=radical&hide_border=true" alt="" /></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuigedeng&layout=compact&hide_border=true" alt="" /></td>
+  </tr>
 </table>
 
 ## 🤝🏻 &nbsp;Contact with Me
